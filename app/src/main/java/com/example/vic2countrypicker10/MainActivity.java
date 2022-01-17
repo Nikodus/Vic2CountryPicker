@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         textView.findViewById(R.id.textview);
         textView.setText("HELLO from GitHub!");
+        textView.setText("No YOU!");
     }
 }
