@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         textView.findViewById(R.id.textview);
-        textView.setText("Mattl du bist a Nega!");
+        textView.setText("Loidl du bist a Nega!");
     }
 }
