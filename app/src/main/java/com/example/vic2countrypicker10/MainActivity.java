@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         textView.findViewById(R.id.textview);
-        textView.setText("HELLO from GitHub!");
+        textView.setText("I love Yung Spinach Cumshot!");
     }
 }
